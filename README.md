@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pranay Yadav</h1>
 <h3 align="center">"A passionate UI/UX developer and AI/ML enthusiast."</h3>
 
-- 🌱 I’m currently learning **UI/UX**
+- 🌱 I’m currently learning **Android Develepment**
 
 - 💬 Ask me about **Android**
 
