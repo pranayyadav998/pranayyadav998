@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pranay Yadav</h1>
-<h3 align="center">"A passionate UI/UX developer and AI/ML enthusiast."</h3>
+<h3 align="center">"A passionate Android developer and AI/ML enthusiast."</h3>
 
 - 🌱 I’m currently learning **Android Develepment**
 
